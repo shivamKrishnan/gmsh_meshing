@@ -29,7 +29,7 @@ git --version
 
 #### 2. Install MinGW (GCC Compiler)
 ```powershell
-choco install mingw --force -y
+choco install mingw  -y
 ```
 Verify:
 ```sh
